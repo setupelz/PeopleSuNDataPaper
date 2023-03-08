@@ -1,0 +1,226 @@
+zone,state,eaid,wpop,hhsize,hhs,urca_cat,urca,asset_cat,asset,elec2013,elec2016,elec2019
+North Central,Kogi,KO_151,6846,3.7,1850,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Kogi,KO_157,5267,3.7,1424,<1hr to int. city,10,High Wealth,8,1,1,1
+North Central,Kogi,KO_160,4083,3.7,1104,<1hr to int. city,10,High Wealth,8,1,1,1
+North Central,Kogi,KO_156,3988,3.7,1078,<1hr to int. city,10,High Wealth,8,1,1,1
+North Central,Kogi,KO_159,3867,3.7,1045,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Kogi,KO_158,3863,3.7,1044,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_177,4563,4.9,931,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Kogi,KO_152,3316,3.7,896,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_176,4299,4.9,877,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Kogi,KO_153,2917,3.7,788,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_175,3213,4.9,656,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_187,2876,4.9,587,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Kogi,KO_150,1805,3.7,488,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Kogi,KO_155,1736,3.7,469,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Kogi,KO_164,1530,3.7,414,<1hr to int. city,10,High Wealth,7,0,0,1
+North Central,Kogi,KO_169,1403,3.7,379,<1hr to int. city,10,Low Wealth,6,1,1,1
+North Central,Kogi,KO_154,1330,3.7,359,<1hr to int. city,10,High Wealth,8,1,1,1
+North Central,Niger,NI_194,1857,5.2,357,<1hr to int. city,11,High Wealth,8,1,1,1
+North Central,Kogi,KO_168,1277,3.7,345,<1hr to int. city,10,High Wealth,7,1,1,1
+North Central,Kogi,KO_167,1165,3.7,315,<1hr to int. city,10,Low Wealth,6,0,0,1
+North Central,Niger,NI_193,1598,5.2,307,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Niger,NI_195,1092,5.2,210,<1hr to int. city,11,Low Wealth,6,0,1,1
+North Central,Niger,NI_207,1002,5.2,193,<1hr to int. city,11,Low Wealth,6,1,1,1
+North Central,Nassarawa,NA_184,750,4.9,153,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_182,1197,4.9,244,<1hr to int. city,11,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_65,19579,4.5,4351,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Nassarawa,NA_172,15903,4.9,3246,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_54,13604,4.5,3023,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_57,11087,4.5,2464,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_58,9601,4.5,2134,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_67,9083,4.5,2018,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_53,5795,4.5,1288,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_56,5764,4.5,1281,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Niger,FC_51,5903,5.2,1135,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_59,4974,4.5,1105,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_72,4621,4.5,1027,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_66,4413,4.5,981,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Niger,NI_192,5064,5.2,974,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_63,4126,4.5,917,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Nassarawa,NA_179,4433,4.9,905,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_181,4357,4.9,889,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_55,3752,4.5,834,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_174,4026,4.9,822,<1hr to large city,9,Low Wealth,6,1,1,1
+North Central,Niger,NI_191,3316,5.2,638,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_62,2585,4.5,574,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_74,2490,4.5,553,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Nassarawa,NA_178,2498,4.9,510,<1hr to large city,9,High Wealth,7,0,0,1
+North Central,Federal Capital Territory,FC_60,2235,4.5,497,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_52,2190,4.5,487,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_64,1802,4.5,400,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_61,1670,4.5,371,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Nassarawa,NA_180,1614,4.9,329,<1hr to large city,9,High Wealth,7,0,0,1
+North Central,Nassarawa,NA_183,1497,4.9,306,<1hr to large city,9,High Wealth,7,1,1,1
+North Central,Nassarawa,NA_188,1432,4.9,292,<1hr to large city,9,Low Wealth,6,1,1,1
+North Central,Federal Capital Territory,FC_75,1179,4.5,262,<1hr to large city,9,High Wealth,8,1,1,1
+North Central,Niger,NI_201,6840,5.2,1315,<1hr to small city/town+,12,Low Wealth,5,0,0,1
+North Central,Niger,NI_196,6011,5.2,1156,<1hr to small city/town+,12,Low Wealth,6,1,1,1
+North Central,Niger,NI_197,5298,5.2,1019,<1hr to small city/town+,12,Low Wealth,6,1,1,1
+North Central,Niger,NI_198,4179,5.2,804,<1hr to small city/town+,18,Low Wealth,6,1,1,1
+North Central,Nassarawa,NA_171,3356,4.9,685,<1hr to small city/town+,13,High Wealth,7,0,0,1
+North Central,Nassarawa,NA_185,2266,4.9,462,<1hr to small city/town+,12,Low Wealth,6,1,1,1
+North Central,Niger,NI_202,2395,5.2,461,<1hr to small city/town+,12,High Wealth,7,1,1,1
+North Central,Kogi,KO_161,1311,3.7,354,<1hr to small city/town+,12,High Wealth,7,0,0,1
+North Central,Niger,NI_200,1390,5.2,267,<1hr to small city/town+,12,High Wealth,8,1,1,1
+North Central,Niger,NI_206,712,5.2,137,<1hr to small city/town+,12,High Wealth,8,0,1,1
+North Central,Niger,NI_190,366,5.2,70,<1hr to small city/town+,12,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_69,10828,4.5,2406,Town,7,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_70,9945,4.5,2210,Town,7,High Wealth,8,1,1,1
+North Central,Federal Capital Territory,FC_68,6173,4.5,1372,Town,7,High Wealth,8,1,1,1
+North Central,Nassarawa,NA_170,6109,4.9,1247,Town,7,Low Wealth,6,1,1,1
+North Central,Niger,NI_199,5870,5.2,1129,Town,7,Low Wealth,6,1,1,1
+North Central,Kogi,KO_165,3951,3.7,1068,Town,7,High Wealth,8,1,1,1
+North Central,Niger,NI_203,4338,5.2,834,Town,7,High Wealth,7,1,1,1
+North Central,Kogi,KO_163,2227,3.7,602,Town,7,High Wealth,7,1,1,1
+North Central,Federal Capital Territory,FC_71,2152,4.5,478,Town,7,High Wealth,8,1,1,1
+North West,Katsina,KT_141,9410,6.3,1494,<1hr to int. city,11,Low Wealth,5,0,1,1
+North West,Kaduna,KD_84,7019,5.5,1276,<1hr to int. city,10,Low Wealth,6,0,0,1
+North West,Kaduna,KD_77,5788,5.5,1052,<1hr to int. city,10,Low Wealth,5,1,1,1
+North West,Zamfara,ZA_247,5873,6.2,947,<1hr to int. city,10,High Wealth,7,1,1,1
+North West,Katsina,KT_134,4789,6.3,760,<1hr to int. city,11,Low Wealth,5,0,0,1
+North West,Katsina,KT_132,4063,6.3,645,<1hr to int. city,11,Low Wealth,5,0,1,1
+North West,Katsina,KT_143,3448,6.3,547,<1hr to int. city,10,Low Wealth,6,1,1,1
+North West,Katsina,KT_142,2914,6.3,463,<1hr to int. city,11,Low Wealth,5,0,0,1
+North West,Kaduna,KD_85,2522,5.5,459,<1hr to int. city,10,Low Wealth,5,0,0,1
+North West,Katsina,KT_136,2830,6.3,449,<1hr to int. city,11,Low Wealth,6,0,0,1
+North West,Katsina,KT_135,2470,6.3,392,<1hr to int. city,11,High Wealth,7,1,1,1
+North West,Katsina,KT_131,2159,6.3,343,<1hr to int. city,11,Low Wealth,6,1,1,1
+North West,Katsina,KT_133,1901,6.3,302,<1hr to int. city,10,Low Wealth,5,1,1,1
+North West,Kaduna,KD_99,1537,5.5,279,<1hr to int. city,10,High Wealth,7,1,1,1
+North West,Katsina,KT_149,1670,6.3,265,<1hr to int. city,10,Low Wealth,6,1,1,1
+North West,Kaduna,KD_100,1134,5.5,206,<1hr to int. city,10,Low Wealth,6,0,0,1
+North West,Katsina,KT_145,1201,6.3,191,<1hr to int. city,11,Low Wealth,6,0,0,1
+North West,Katsina,KT_130,1020,6.3,162,<1hr to int. city,10,High Wealth,7,1,1,1
+North West,Kaduna,KD_88,6757,5.5,1229,<1hr to large city,9,High Wealth,7,0,1,1
+North West,Kano,KN_110,7232,6.2,1166,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kano,KN_103,6698,6.2,1080,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Katsina,KT_140,6595,6.3,1047,<1hr to large city,9,Low Wealth,6,1,1,1
+North West,Kaduna,KD_90,5443,5.5,990,<1hr to large city,9,Low Wealth,6,1,1,1
+North West,Kano,KN_118,5787,6.2,933,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Kano,KN_108,5461,6.2,881,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kano,KN_114,5458,6.2,880,<1hr to large city,9,Low Wealth,6,0,1,1
+North West,Kano,KN_104,5098,6.2,822,<1hr to large city,9,Low Wealth,6,0,1,1
+North West,Kano,KN_112,4848,6.2,782,<1hr to large city,9,Low Wealth,5,1,1,1
+North West,Kaduna,KD_76,4013,5.5,730,<1hr to large city,9,Low Wealth,6,1,1,1
+North West,Kaduna,KD_89,3840,5.5,698,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kaduna,KD_79,2553,5.5,464,<1hr to large city,9,Low Wealth,6,0,0,1
+North West,Kaduna,KD_87,2135,5.5,388,<1hr to large city,9,Low Wealth,6,1,1,1
+North West,Kaduna,KD_86,1924,5.5,350,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kaduna,KD_101,1573,5.5,286,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kano,KN_122,1775,6.2,286,<1hr to large city,9,Low Wealth,6,1,1,1
+North West,Kano,KN_116,1635,6.2,264,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kano,KN_120,1354,6.2,218,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kaduna,KD_83,844,5.5,153,<1hr to large city,9,Low Wealth,6,1,0,1
+North West,Kano,KN_123,938,6.2,151,<1hr to large city,9,High Wealth,7,0,0,1
+North West,Kaduna,KD_91,819,5.5,149,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Kano,KN_115,694,6.2,112,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kaduna,KD_92,564,5.5,103,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Kano,KN_126,482,6.2,78,<1hr to large city,9,High Wealth,7,1,1,1
+North West,Kano,KN_125,404,6.2,65,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Kano,KN_117,886,6.2,143,<1hr to large city,9,High Wealth,8,1,1,1
+North West,Katsina,KT_138,6567,6.3,1042,<1hr to small city/town+,12,Low Wealth,5,0,0,1
+North West,Katsina,KT_128,4777,6.3,758,<1hr to small city/town+,12,Low Wealth,5,1,1,1
+North West,Katsina,KT_137,2450,6.3,389,<1hr to small city/town+,12,Low Wealth,6,0,0,1
+North West,Kaduna,KD_82,1863,5.5,339,<1hr to small city/town+,12,Low Wealth,6,0,0,1
+North West,Zamfara,ZA_244,1893,6.2,305,<1hr to small city/town+,13,Low Wealth,5,0,1,1
+North West,Katsina,KT_144,1767,6.3,280,<1hr to small city/town+,12,Low Wealth,5,0,0,1
+North West,Katsina,KT_148,1060,6.3,168,<1hr to small city/town+,12,Low Wealth,5,1,1,1
+North West,Katsina,KT_129,863,6.3,137,<1hr to small city/town+,12,Low Wealth,5,0,1,1
+North West,Kaduna,KD_94,5338,5.5,971,<1hr to small city/town+,16,Low Wealth,5,0,0,1
+North West,Kano,KN_102,4421,6.2,713,<1hr to small city/town+,12,Low Wealth,6,1,1,1
+North West,Kaduna,KD_81,3188,5.5,580,<1hr to small city/town+,12,Low Wealth,6,0,0,1
+North West,Kaduna,KD_80,2053,5.5,373,<1hr to small city/town+,12,Low Wealth,5,0,0,1
+North West,Kaduna,KD_78,1350,5.5,245,<1hr to small city/town+,16,Low Wealth,5,0,0,1
+North West,Kaduna,KD_98,14527,5.5,2641,Town,7,High Wealth,8,1,1,1
+North West,Kano,KN_107,11324,6.2,1826,Town,7,Low Wealth,5,0,1,1
+North West,Kano,KN_124,10405,6.2,1678,Town,7,High Wealth,7,1,1,1
+North West,Kaduna,KD_95,8930,5.5,1624,Town,7,High Wealth,7,0,0,1
+North West,Kano,KN_106,9654,6.2,1557,Town,7,High Wealth,7,1,1,1
+North West,Kaduna,KD_97,7806,5.5,1419,Town,7,High Wealth,7,1,0,1
+North West,Kano,KN_113,8451,6.2,1363,Town,7,Low Wealth,6,0,0,1
+North West,Kano,KN_109,8240,6.2,1329,Town,7,Low Wealth,6,1,1,1
+North West,Kaduna,KD_96,7192,5.5,1308,Town,7,High Wealth,7,1,0,1
+North West,Kano,KN_105,6643,6.2,1071,Town,7,Low Wealth,6,0,1,1
+North West,Zamfara,ZA_246,5780,6.2,932,Town,7,Low Wealth,6,0,1,1
+North West,Kano,KN_111,5667,6.2,914,Town,7,Low Wealth,6,1,1,1
+North West,Katsina,KT_147,5507,6.3,874,Town,7,High Wealth,7,0,0,1
+North West,Katsina,KT_139,5168,6.3,820,Town,7,Low Wealth,6,0,1,1
+North West,Kano,KN_121,4980,6.2,803,Town,7,Low Wealth,6,1,1,1
+North West,Kano,KN_127,3193,6.2,515,Town,7,Low Wealth,6,0,1,1
+North West,Katsina,KT_146,2092,6.3,332,Town,7,Low Wealth,5,1,1,1
+South South,Delta,DE_24,4513,3.4,1327,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_21,3669,3.4,1079,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_25,3349,3.4,985,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_17,3054,3.4,898,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_22,2685,3.4,790,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_19,2599,3.4,764,<1hr to int. city,11,High Wealth,8,1,1,1
+South South,Delta,DE_26,2508,3.4,738,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_29,2417,3.4,711,<1hr to int. city,10,High Wealth,8,1,0,1
+South South,Akwa Ibom,AK_2,2481,3.7,671,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_6,2449,3.7,662,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_9,2290,3.7,619,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_27,2071,3.4,609,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_5,2166,3.7,585,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_20,1503,3.4,442,<1hr to int. city,10,High Wealth,8,0,0,1
+South South,Delta,DE_18,788,3.4,232,<1hr to int. city,10,High Wealth,8,1,1,1
+South South,Delta,DE_23,740,3.4,218,<1hr to int. city,10,High Wealth,8,1,0,1
+South South,Rivers,RI_209,11334,3.8,2983,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_240,10002,3.8,2632,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_233,9931,3.8,2613,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_208,9066,3.8,2386,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_235,8875,3.8,2336,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_217,8252,3.8,2172,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_236,7395,3.8,1946,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_211,6981,3.8,1837,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_216,6924,3.8,1822,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_218,6713,3.8,1767,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_225,6715,3.8,1767,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_220,6334,3.8,1667,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_228,5850,3.8,1539,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_231,5713,3.8,1503,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_210,5525,3.8,1454,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Akwa Ibom,AK_4,5058,3.7,1367,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_223,4895,3.8,1288,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Akwa Ibom,AK_3,4646,3.7,1256,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_13,4230,3.7,1143,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_16,4045,3.7,1093,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Akwa Ibom,AK_12,4034,3.7,1090,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_227,3941,3.8,1037,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_11,3655,3.7,988,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_7,2902,3.7,784,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_224,2899,3.8,763,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_222,2809,3.8,739,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Edo,ED_46,2704,3.8,712,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_237,2575,3.8,678,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_226,2568,3.8,676,<1hr to large city,9,High Wealth,7,1,1,1
+South South,Rivers,RI_221,2325,3.8,612,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_219,2267,3.8,597,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_212,1927,3.8,507,<1hr to large city,9,High Wealth,7,1,1,1
+South South,Akwa Ibom,AK_14,1811,3.7,489,<1hr to large city,9,High Wealth,7,1,1,1
+South South,Delta,DE_31,1646,3.4,484,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_214,1667,3.8,439,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Edo,ED_47,1587,3.8,418,<1hr to large city,9,High Wealth,7,1,1,1
+South South,Rivers,RI_234,1523,3.8,401,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_229,1339,3.8,352,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Delta,DE_43,1100,3.4,324,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_230,1079,3.8,284,<1hr to large city,9,High Wealth,9,1,1,1
+South South,Rivers,RI_241,1062,3.8,279,<1hr to large city,9,High Wealth,7,1,1,1
+South South,Akwa Ibom,AK_15,835,3.7,226,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Delta,DE_41,725,3.4,213,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Delta,DE_42,569,3.4,167,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Akwa Ibom,AK_8,610,3.7,165,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Rivers,RI_213,599,3.8,158,<1hr to large city,9,High Wealth,8,1,1,1
+South South,Delta,DE_33,3439,3.4,1011,<1hr to small city/town+,12,High Wealth,8,1,1,1
+South South,Delta,DE_34,2195,3.4,646,<1hr to small city/town+,12,High Wealth,8,1,1,1
+South South,Delta,DE_32,1615,3.4,475,<1hr to small city/town+,12,High Wealth,8,1,1,1
+South South,Delta,DE_38,8015,3.4,2357,Town,7,High Wealth,8,0,0,1
+South South,Delta,DE_36,7375,3.4,2169,Town,7,High Wealth,8,0,0,1
+South South,Rivers,RI_232,6956,3.8,1831,Town,7,High Wealth,7,1,1,1
+South South,Delta,DE_37,4722,3.4,1389,Town,7,High Wealth,8,1,1,1
+South South,Rivers,RI_238,4991,3.8,1313,Town,7,High Wealth,8,1,1,1
+South South,Delta,DE_44,4016,3.4,1181,Town,7,High Wealth,8,0,0,1
+South South,Delta,DE_35,2306,3.4,678,Town,7,High Wealth,8,1,1,1
+South South,Rivers,RI_239,1447,3.8,381,Town,7,High Wealth,7,1,1,1
+South South,Edo,ED_48,1230,3.8,324,Town,7,Low Wealth,6,1,1,1
+South South,Delta,DE_39,1086,3.4,319,Town,7,High Wealth,8,1,1,1
