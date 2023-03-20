@@ -65,3 +65,5 @@ rsconnect/
 *.docx
 *.xlsx
 *.cls
+Manuscript/ref.bib.bak
+Manuscript/ref.bib.sav.tmp
